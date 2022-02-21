@@ -1,0 +1,11 @@
+.actions{
+    opacity: 0;
+}
+
+tr:hover .actions{
+    opacity: 1;
+}
+.actions span {
+    margin-right: 1rem;
+    cursor: pointer;
+}
